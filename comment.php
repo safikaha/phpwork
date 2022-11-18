@@ -2,7 +2,7 @@
 
     //บรรทัดที่ 6-7 แสดงผลการใช้งาน Cmment แบบบรรทัดเดียว 
   echo "Shafika Ha<br>";
-  echo "Information Technology";
+  echo "Information Technology<br>";
   //ecch "Pattani<br>";
   #ecch "Thailand";
 
